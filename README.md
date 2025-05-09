@@ -68,7 +68,7 @@ Execute the C Program for the desired output.
     close(in);
     close(out);
     return EXIT_SUCCESS;
-}
+    }
 
 ## OUTPUT
 ![OUTPUT](<output 1 OS EXP7.png>)
@@ -147,7 +147,7 @@ Execute the C Program for the desired output.
 
     close(fd);
     return 0;
-}
+    }
 
 
 
